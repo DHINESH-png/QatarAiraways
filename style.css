@@ -1,0 +1,157 @@
+.top{
+    background-color: rgb(128, 0, 85);
+    color: white;
+}
+
+.top .topp{
+    margin-left: 10px
+}
+
+body{
+    background-color: rgb(86, 0, 59);
+    border-left: 10px solid rgb(128, 0, 85);
+    border-right: 10px solid rgb(128, 0, 85);
+}
+
+.page{
+    background-color: white;
+}
+
+.qatar{
+    margin-left: 20px;
+}
+
+
+.date{
+    float: right;
+    margin-right: 20px;
+}
+
+.onl{
+    color: purple;
+    margin-left: 20px;
+    font-size: 15px
+}
+
+.inss{
+    position: relative;
+    padding: 0px 10px 0px 10px;
+    background-color: rgb(128, 0, 85);
+    width: 280px;
+    height: 80px;
+    font-size: 30px;
+    color: white;
+    margin-left: 600px;
+    margin-top: -200px;
+    margin-bottom: 100px;
+}
+
+.book{
+    float: right;
+    margin-top: 20px;
+    padding: 10px 20px;
+    color: white;
+    background:rgb(128, 0, 85);
+}
+
+.cont{
+    margin-left: 20px;
+    font-style:normal;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: 100;
+}
+
+.spl{
+    font-size: x-large;
+    margin-left: 20px;
+
+}
+
+.ahm{
+    background-color: #75072c;
+    margin-left: 20px;
+    color: white;
+    margin-bottom: 20px;
+    margin-right: 20px;
+}
+
+.ahm p{
+    padding: 10px;
+}
+
+.ang{
+    display: flex;
+}
+
+.ang{
+ gap: 20%;
+ justify-content: center;
+ margin-right: 40px;
+ color: rgb(128, 0, 85);
+}
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.box{
+    width: 45%;
+    color: #75072c;
+    border: 2px solid #75072c;
+    border-left: none;
+    border-bottom: none;
+    border-right: none;
+    margin-left: 20px;
+}
+
+.term{
+    margin-left: 20px;
+    color: #75072c;
+}
+
+.exc{
+    margin-left: 20px;
+    background-color: grey;
+    color: white;
+    padding: 10px;
+    width: 95%;
+}
+
+.offr{
+    display: flex;
+}
+.stu{
+    width: 30%;
+    margin-top: 10px;
+    margin-left: 30px;
+    display: flex;
+    display: inline;
+    flex-wrap: wrap;
+}
+
+.stu img{
+    width: 200px;
+}
+
+.off{
+    margin-left: 20px;    
+    display: inline;
+}
+
+a{
+    margin-top: -30px;
+    text-decoration: none;
+    color: #75072c;
+}
+
+.world{
+    margin-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    color: #75072c;
+}
+
+.page{
+    border-bottom: #75072c 2px solid;
+}
